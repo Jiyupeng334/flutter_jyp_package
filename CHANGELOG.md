@@ -1,3 +1,3 @@
 ## [1.0.0] - 2019-06-16
 
-* just test
+* add a normalbutton without ink.
